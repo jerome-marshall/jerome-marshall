@@ -1,13 +1,14 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="100%" />
+<img src="./coding.gif" align="center" width="100%" />
 
 <h3 align="left">I'm Jerome Marshall, I build things for mobile and the web.</h3>
-<p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences. Currently, I'm working at <a href="https://starberry.tv/" target="blank"><img align="center" src="https://assets.website-files.com/5b5affb9e054d23e31dada55/5b850f2beeff4d1fc7275561_starberry-just-berry-white.png" alt="jerome-marshall-0" height="24" width="24" /> Starberry</a> as a Front-end Developer.</p>
+<p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences for the web. Currently, I'm working at <a href="https://starberry.tv/" target="blank"><img align="center" src="https://assets.website-files.com/5b5affb9e054d23e31dada55/5b850f2beeff4d1fc7275561_starberry-just-berry-white.png" alt="jerome-marshall-0" height="24" width="24" /> Starberry</a> as a Front-end Developer.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jerome-marshall-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome-marshall-0" height="30" width="40" /></a>
-<a href="https://twitter.com/jerome0marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerome0marshall" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jerome-marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerome-marshall" height="30" width="40" /></a>
+<a href="https://jerome-marshall.github.io/" target="blank"><img align="top" src="./website-logo.png" alt="jerome-marshall-0" height="32" width="34" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jerome-marshall-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome-marshall-0" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jerome0marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerome0marshall" height="30" width="30" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/jerome-marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerome-marshall" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
