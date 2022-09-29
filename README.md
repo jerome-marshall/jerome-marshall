@@ -1,6 +1,7 @@
-<img src="./header.png"></img>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="100%" />
 
-<h3 align="center">I build things for mobile and the web.</h3>
+<h3 align="left">I'm Jerome Marshall, I build things for mobile and the web.</h3>
+<p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences. Currently, I'm working at <a href="https://starberry.tv/" target="blank"><img align="center" src="https://assets.website-files.com/5b5affb9e054d23e31dada55/5b850f2beeff4d1fc7275561_starberry-just-berry-white.png" alt="jerome-marshall-0" height="24" width="24" /> Starberry</a> as a Front-end Developer.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
