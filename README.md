@@ -1,7 +1,7 @@
 <img src="./coding.gif" align="center" width="100%" />
 
-<h1 align="left">Hey 👋, </br>I'm Jerome Marshall</h1>
-<h3 align="left">I build things for mobile and the web.</h3>
+<h1 align="center">Hey 👋 </br>I'm Jerome Marshall</h1>
+<h2 align="left">I build things for mobile and the web.</h2>
 <p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences for the web. Currently, I'm working at <a href="https://starberry.tv/" target="blank"><img align="center" src="https://assets.website-files.com/5b5affb9e054d23e31dada55/5b850f2beeff4d1fc7275561_starberry-just-berry-white.png" alt="jerome-marshall-0" height="24" width="24" /> Starberry</a> as a Front-end Developer.</p>
 
 <h3 align="left">Connect with me:</h3>
