@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Jerome Marshall</h1>
 <h2 align="left">I build things for mobile and the web.</h2>
-<p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences for the web. Currently, I'm working at <a href="https://starberry.tv/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/3298033?s=200&v=4" alt="jerome-marshall-0" height="20" width="20" /> Starberry</a> as a Front-end Developer.</p>
+<p>I'm a Software Developer, building (and occasionally designing) user-friendly digital experiences for the web. Currently, I'm working at <a href="https://www.nutanix.com/" target="blank"><img align="center" src="https://resources.nutanix.com/is/content/nutanix/nutanix-logo-min?ts=1739446232240&dpr=off&preferwebp=true" alt="jerome-marshall-0" height="20" width="20" /> Nutanix</a> as a UX Engineer</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
